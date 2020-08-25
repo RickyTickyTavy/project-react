@@ -1,6 +1,5 @@
-console.log('test');
-console.log('test');
-console.log('test');
-console.log('test2');
-console.log('test2');
-console.log('test2');
+"use strict";
+
+console.log('git pull test');
+console.log('git pull test2');
+console.log('git pull test3');

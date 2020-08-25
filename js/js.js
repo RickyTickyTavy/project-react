@@ -1,3 +1,3 @@
-console.log('test');
-console.log('test');
-console.log('test');
+"use strict";
+
+console.log('git pull test');
